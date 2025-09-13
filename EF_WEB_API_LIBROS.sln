@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_WEB_API_LIBROS", "EF_WEB_API_LIBROS.csproj", "{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DF2D101-029E-41BB-9DB8-65C71A91D54A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@EF_WEB_API_LIBROS_HostAddress = http://localhost:5094
+
+GET {{EF_WEB_API_LIBROS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
