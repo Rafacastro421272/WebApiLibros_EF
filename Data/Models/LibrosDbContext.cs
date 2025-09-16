@@ -13,13 +13,13 @@ public partial class LibrosDbContext : DbContext
     {
     }
 
-    public virtual DbSet<Autore> Autores { get; set; }
+    public virtual DbSet<Autor> Autores { get; set; }
 
     public virtual DbSet<Libro> Libros { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Autore>(entity =>
+        modelBuilder.Entity<Autor>(entity =>
         {
             entity.HasKey(e => e.IdAutor).HasName("PK_T_Autores");
 

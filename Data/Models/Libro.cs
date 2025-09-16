@@ -19,5 +19,5 @@ public partial class Libro
 
     public int Autor { get; set; }
 
-    public virtual Autore AutorNavigation { get; set; }
+    public virtual Autor AutorNavigation { get; set; }
 }

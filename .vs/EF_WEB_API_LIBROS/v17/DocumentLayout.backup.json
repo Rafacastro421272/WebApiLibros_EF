@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\data\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:data\\models\\autore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:data\\repositories\\librorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\data\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:data\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:data\\repositories\\ilibrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:data\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|c:\\users\\rafac\\onedrive\\documentos\\visual studio 2022\\clases\\programacion 2\\ef_web_api_libros\\data\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6F4410-CA76-4D37-AA0F-819DA4B8ECBB}|EF_WEB_API_LIBROS.csproj|solutionrelative:data\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LibrosDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\LibrosDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\LibrosDbContext.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\LibrosDbContext.cs",
-              "RelativeToolTip": "Data\\Models\\LibrosDbContext.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T14:42:32.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\Libro.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Libro.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\Libro.cs",
-              "RelativeToolTip": "Data\\Models\\Libro.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T14:43:06.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Autore.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\Autore.cs",
-              "RelativeDocumentMoniker": "Data\\Models\\Autore.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\Autore.cs",
-              "RelativeToolTip": "Data\\Models\\Autore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T14:42:57.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T14:26:20.837Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -90,11 +58,117 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T15:16:37.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAA7wHgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:46:13.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ILibroRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Repositories\\ILibroRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ILibroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:52:18.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\Libro.cs",
+              "RelativeToolTip": "Data\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:43:06.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\efpt.config.json",
+              "RelativeDocumentMoniker": "efpt.config.json",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\efpt.config.json",
+              "RelativeToolTip": "efpt.config.json",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T15:49:09.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\LibroRepository.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Repositories\\LibroRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\LibroRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T15:56:12.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:26:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrosDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\LibrosDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\LibrosDbContext.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\LibrosDbContext.cs",
+              "RelativeToolTip": "Data\\Models\\LibrosDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:42:32.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\Autor.cs",
+              "RelativeDocumentMoniker": "Data\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\rafac\\OneDrive\\Documentos\\Visual Studio 2022\\Clases\\Programacion 2\\EF_WEB_API_LIBROS\\Data\\Models\\Autor.cs",
+              "RelativeToolTip": "Data\\Models\\Autor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:42:57.233Z"
             }
           ]
         }
